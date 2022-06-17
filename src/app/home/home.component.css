@@ -1,0 +1,33 @@
+.p-profile{
+    background:url(/assets/sasuke.png);
+    width:100%;
+    height:500px;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.p-tag{
+    background: #91979e;
+    color: white;
+    padding: 5px 4px;
+}
+.p-des{
+    color: gray;
+    width: 80%;
+}
+.p-readmore{
+    color: black;
+    font-size: 20px;
+}
+.p-readmore img{
+    transition: all .5s;
+    transition: transform .7s ease-in-out;
+
+    
+
+}
+.p-readmore:hover img{
+    transform: rotate(180deg);
+    
+
+}

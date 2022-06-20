@@ -4,7 +4,10 @@
 body{
     margin:0;
     padding:0;
+    
+    
 }
+
 
 p{
     margin:0;
@@ -34,7 +37,7 @@ ul{
 .p-wrapper::before{
     content:'';
     background: #91979e;
-    height:100vh;
+    height:111%;
     width :25vw;
     position:absolute;
     z-index:-1;
